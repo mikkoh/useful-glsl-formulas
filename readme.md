@@ -2,7 +2,7 @@
 
 This repo is a collection of neat formulas I've seen around the Internet. Warning they maybe untested.
 
-### Get a transformed Normal matrix from a model matrix
+### Get a transformed Normal matrix from a Model matrix
 ```javascript
 var matNormal = glMat3.create();
 glMat3.fromMat4(matNormal, model);
