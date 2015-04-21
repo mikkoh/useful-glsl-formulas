@@ -1,4 +1,4 @@
-# Useful GLSL Formulas
+# Useful WebGL Formulas
 
 This repo is a collection of neat formulas I've seen around the Internet. Warning they maybe untested.
 
